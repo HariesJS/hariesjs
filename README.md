@@ -3,6 +3,8 @@ Hi, I'm Eugene![](https://user-images.githubusercontent.com/18350557/176309783-0
 
 #### Full Stack Developer | ReactJS, NextJS, React Native, NodeJS
 
+![hariesjs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariesjs&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 <hr/>
 
 ## 👨‍💻 About Me
@@ -38,7 +40,7 @@ I’m open to new opportunities and collaborative teamwork.
 </p>
 <p align="left">
    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=notion,figma,ps,vscode,webstorm" />
+   <img src="https://skillicons.dev/icons?i=remix,jest,postman,notion,figma,ps,vscode,webstorm,androidstudio,docker,gitlab,bitbucket" />
   </a>
 </p>
 <p align="left">
